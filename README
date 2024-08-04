@@ -5,12 +5,14 @@ This custom configuration has the following patches:
 
 -Alpha
 -The three scroll patches
+-Ligatures
 -Xresources
 
 
 Requirements
 ------------
 In order to build st you need the Xlib header files.
+Fira code font, which is the default.
 
 
 Installation
